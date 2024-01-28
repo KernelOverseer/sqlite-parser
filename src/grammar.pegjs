@@ -28,7 +28,7 @@
   }
 
   function foldStringKey(parts) {
-    return foldString(parts).toLowerCase();
+    return foldString(parts);
   }
 
   function flattenAll(arr) {
